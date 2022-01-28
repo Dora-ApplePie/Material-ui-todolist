@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/test-repo/static/css/main.59d85475.css",
-    "main.js": "/test-repo/static/js/main.89cff47a.js",
-    "index.html": "/test-repo/index.html",
-    "main.59d85475.css.map": "/test-repo/static/css/main.59d85475.css.map",
-    "main.89cff47a.js.map": "/test-repo/static/js/main.89cff47a.js.map"
+    "main.css": "/Material-ui-todolist/static/css/main.59d85475.css",
+    "main.js": "/Material-ui-todolist/static/js/main.89cff47a.js",
+    "index.html": "/Material-ui-todolist/index.html",
+    "main.59d85475.css.map": "/Material-ui-todolist/static/css/main.59d85475.css.map",
+    "main.89cff47a.js.map": "/Material-ui-todolist/static/js/main.89cff47a.js.map"
   },
   "entrypoints": [
     "static/css/main.59d85475.css",
