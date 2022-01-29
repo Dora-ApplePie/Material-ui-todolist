@@ -124,7 +124,6 @@ function App() {
 
     return (
         <div>
-
             <AppBar position="static" color={'secondary'}>
                 <Toolbar style={{justifyContent: 'space-between'}}>
                     <IconButton
